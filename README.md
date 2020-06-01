@@ -14,6 +14,6 @@ Positive Feedback Count: Positive Integer documenting the number of other custom
 Division Name: Categorical name of the product high level division.
 Department Name: Categorical name of the product department name.
 Class Name: Categorical name of the product class name.
-These dataset does not include labels showing the sentiments of the reviews. I have created a new feature sentiment analysing the given data based on a certain condition, and used the same as the target variable.
+These dataset does not include labels showing the sentiments of the reviews.
 
 Data Source and description: Kaggle
